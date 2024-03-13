@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Actors-App
 Task repo  
+Home page screen is scrollable to view more reals or video related contents.
